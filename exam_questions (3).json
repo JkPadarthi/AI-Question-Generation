@@ -1,0 +1,149 @@
+[
+  {
+    "chunk": "The Wonders Hidden in Everyday Life 1. The Science in a Cup of Tea When you pour hot water over tea leaves, you are watching chemistry in action. The heat causes cell walls in the leaves to break, releasing flavor molecules like tannins and caffeine. The color comes from polyphenols, natural antioxidants that protect the plant and your body.",
+    "keywords": [
+      "leaves",
+      "wonders",
+      "hidden",
+      "everyday",
+      "science"
+    ],
+    "cluster": 2,
+    "questions": [
+      "4. How do the chemical changes in tea leaves when heated affect the taste and appearance of the brewed tea? 1. What role do polyphenols play in the tea leaves?",
+      "2. Besides tannins and caffeine, which other flavor molecules are released by the broken cell walls?",
+      "3. Why is the presence of polyphenols important for both the tea leaves and the human body?",
+      "4. Describe the process of brewing tea in terms of chemical reactions. 1. What role do polyphenols play in the tea leaves?"
+    ],
+    "best_question": "4. How do the chemical changes in tea leaves when heated affect the taste and appearance of the brewed tea? 1. What role do polyphenols play in the tea leaves?",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk": "Even the bubbles that form at the surface are telling a story: they appear when proteins in the tea stabilize tiny air pockets, just like soap bubbles do. A simple cup of tea is a lesson in thermodynamics, diffusion, and organic chemistry. The Forgotten Genius of Nikola Tesla Nikola Tesla was one of the most brilliant inventors of all time and also one of the most misunderstood. While Thomas Edison chased fame and patents, Tesla dreamed of a wireless world powered by energy that could flow through the air itself.",
+    "keywords": [
+      "bubbles",
+      "nikola",
+      "surface",
+      "telling",
+      "appear"
+    ],
+    "cluster": 5,
+    "questions": [
+      "4. How does the formation of bubbles in tea relate to the principles of thermodynamics and diffusion?",
+      "5. What is one key difference between the approaches of Nikola Tesla and Thomas Edison as described in the passage? 6. In what way does the passage suggest that Tesla's vision for a wireless world differed from Edison's focus on tangible inventions? 7. How does the comparison of tea bubbles to soap bubbles help illustrate a scientific concept mentioned in the passage? 8. What does the passage imply about the legacy of Nikola Tesla compared to Thomas Edison? 9. According to the text, what inspired Tesla's innovative thinking beyond his famous experiments? 10. In your own words, describe how the passage connects the everyday act of drinking tea with complex scientific principles. 11. Based on the information given, what can be inferred about Tesla's approach to invention compared to Edison's? 12. How does the metaphor of Tesla dreaming of a \""
+    ],
+    "best_question": "5. What is one key difference between the approaches of Nikola Tesla and Thomas Edison as described in the passage? 6. In what way does the passage suggest that Tesla's vision for a wireless world differed from Edison's focus on tangible inventions? 7. How does the comparison of tea bubbles to soap bubbles help illustrate a scientific concept mentioned in the passage? 8. What does the passage imply about the legacy of Nikola Tesla compared to Thomas Edison? 9. According to the text, what inspired Tesla's innovative thinking beyond his famous experiments? 10. In your own words, describe how the passage connects the everyday act of drinking tea with complex scientific principles. 11. Based on the information given, what can be inferred about Tesla's approach to invention compared to Edison's? 12. How does the metaphor of Tesla dreaming of a \"",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk": "He built the Tesla coil, experimented with wireless electricity, and imagined the internet long before it existed. Today's alternating current (AC) systems, the power lines lighting up your home, are direct descendants of his ideas. Yet Tesla died broke and nearly forgotten, his vision decades ahead of its time. The Cosmic Clock Every second, our planet races through space at 30 kilometers per second.",
+    "keywords": [
+      "second",
+      "experimented",
+      "wireless",
+      "electricity",
+      "imagined"
+    ],
+    "cluster": 0,
+    "questions": [
+      "1. How did Tesla's work influence modern electrical systems?",
+      "2. What does the phrase \"direct descendants\" imply about Tesla's inventions?",
+      "3. What speed does Earth travel through space according to the passage?",
+      "4. Why did Tesla's ideas take so long to become widely recognized? To what might this be attributed?"
+    ],
+    "best_question": "1. How did Tesla's work influence modern electrical systems?",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 2
+    }
+  },
+  {
+    "chunk": "The stars you see tonight are ancient memories; some of their light left the star before humans even existed. The Earth spins on its axis every 23.93 hours (not 24 exactly!), and this small difference adds up: every few years, scientists insert a leap second to keep our clocks aligned with reality. So when you check your watch, remember: time itself is a fragile human invention trying to keep up with the dance of the universe. The Language of Animals Dolphins call each other by unique names, whistles that act like human names.",
+    "keywords": [
+      "tonight",
+      "ancient",
+      "memories",
+      "before",
+      "humans"
+    ],
+    "cluster": 3,
+    "questions": [
+      "1. How does the Earth's rotation affect the need for leap seconds in timekeeping?",
+      "2. What phenomenon occurs due to the Earth's non-exact 24-hour cycle?",
+      "3. According to the passage, why do scientists occasionally add a leap second to our clocks?",
+      "4. In what way do dolphins communicate using a system similar to human naming? To what extent is this comparison accurate? 1. Why do variations in Earth's rotation lead to the need for leap seconds in timekeeping?"
+    ],
+    "best_question": "3. According to the passage, why do scientists occasionally add a leap second to our clocks?",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 3
+    }
+  },
+  {
+    "chunk": "Bees perform dances to describe food sources, using angles and distance in relation to the sun. Elephants mourn their dead, and crows can recognize human faces. The more we study animals, the clearer it becomes: communication is not a human privilege; it is a spectrum of intelligence spread across life on Earth. Maybe language is not about words; it is about meaning, and the will to share it.",
+    "keywords": [
+      "perform",
+      "dances",
+      "describe",
+      "sources",
+      "angles"
+    ],
+    "cluster": 1,
+    "questions": [],
+    "best_question": null,
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 4
+    }
+  },
+  {
+    "chunk": "The Future Is Quietly Electric Every major revolution begins quietly. Lithium-ion batteries, first developed in the 1980s, now power everything from smartphones to space missions. Researchers are developing solid-state batteries that could charge in minutes and last for decades. In a few years, electric aircraft may be as common as electric cars.",
+    "keywords": [
+      "electric",
+      "quietly",
+      "batteries",
+      "future",
+      "revolution"
+    ],
+    "cluster": 4,
+    "questions": [
+      "1. What technological advancement from the 1980s has significantly impacted modern technology?",
+      "2. How do researchers aim to improve lithium-ion batteries?",
+      "3. What is one potential future application of solid-state batteries?",
+      "4. Why might electric aircraft become as commonplace as electric cars? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might this be attributed? To what might"
+    ],
+    "best_question": "3. What is one potential future application of solid-state batteries?",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 5
+    }
+  },
+  {
+    "chunk": "The true transformation will not come from flashy inventions, but from millions of small, silent changes that shift the rhythm of our world.",
+    "keywords": [
+      "transformation",
+      "flashy",
+      "inventions",
+      "millions",
+      "silent"
+    ],
+    "cluster": 3,
+    "questions": [
+      "1. How does the author suggest we should approach significant societal change?",
+      "2. What type of changes does the author believe are necessary for a true transformation?",
+      "3. Why does the author emphasize the importance of small, silent changes over flashy inventions?",
+      "4. What is the relationship between the rhythm of our world and the author's vision for change? To what extent do you agree with this perspective? Explain your reasoning. 1."
+    ],
+    "best_question": "3. Why does the author emphasize the importance of small, silent changes over flashy inventions?",
+    "source": {
+      "file": "sample_data/The_Wonders_Hidden_in_Everyday_Life.pdf",
+      "chunk_index": 6
+    }
+  }
+]
