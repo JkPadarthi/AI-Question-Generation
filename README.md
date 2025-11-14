@@ -113,8 +113,8 @@ This lets the system create **deep, conceptual questions**, not shallow fill-in-
 ## 📎 **Project Structure**
 
 ```
-📂 Question-Generator/
-│── question_generator.ipynb
+📂 AI-Question-Generation/
+│── AI.ipynb
 │── exam_questions.json
 │── README.md
 │── sample_data/
