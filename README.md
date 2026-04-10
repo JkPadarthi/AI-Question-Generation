@@ -2,6 +2,9 @@
 
 ### *An End-to-End AI Pipeline for Generating Exam-Style Questions from PDF Study Material*
 
+👥 Contributors
+Jaswanth Krishna(https://github.com/jkpadarthi)
+Kartheek Yadav(https://github.com/KartheekYadav87)
 ---
 
 ## 🚀 **Overview**
